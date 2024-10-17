@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejflscica43
-- 👀 I’m interested in Visual Bukkit
-- 🌱 I’m currently learning Visual Bukkit
+- 👀 I’m interested in Visual Basic
+- 🌱 I’m currently learning Visual Basic
 - 💞️ I’m looking to collaborate on no one
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
