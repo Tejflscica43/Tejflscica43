@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Tejflscica43
-- 👀 I’m interested in Visual Basic
-- 🌱 I’m currently learning Visual Basic
+- 👀 I’m interested in Visual Basic and Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on no one
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: catcore editeket csinálok (3k)
 
 <!---
